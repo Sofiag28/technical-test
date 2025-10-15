@@ -48,4 +48,9 @@ Despliegues:
 Base de datos: genuineschool-genuineschool.e.aivencloud.com
 Despliegue Backend: https://genuineschoolprueba.onrender.com/ 
 
+Repositorios:
+Backend: https://github.com/Sofiag28/Backend.git
+Fronted:https://github.com/Sofiag28/Fronted.git
+
+
 
