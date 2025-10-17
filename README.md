@@ -47,6 +47,7 @@ Metricas
 Despliegues: 
 Base de datos: genuineschool-genuineschool.e.aivencloud.com
 Despliegue Backend: https://genuineschoolprueba.onrender.com/ 
+Despliegue frontend; https://fronted-dz2q.onrender.com
 
 Repositorios:
 Backend: https://github.com/Sofiag28/Backend.git
